@@ -108,11 +108,6 @@ The workings of the Sudoku Validator are quite simple, to be honest. Here's a si
 
 * Right now, the Sudoku Solver Suite is just a CLI application with a I/O interface. However, if we could make it into a CLI utility which takes in inputs through parameters and switches, that would make it easier for other developers to reuse.
 
-## Acknowledgements
-
-* Shriram R - Idea Inspiration
-* Aravind B - Puzzle Display Design Ideas
-
 ## Tools
 * Vim Editor
 * Clang C++ Compiler
